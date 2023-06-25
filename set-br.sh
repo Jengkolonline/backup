@@ -49,7 +49,7 @@ wget -O backupxray "https://raw.githubusercontent.com/Jengkolonline/backup/main/
 wget -O backup "https://raw.githubusercontent.com/Jengkolonline/backup/main/backup.sh"
 wget -O restorexray "https://raw.githubusercontent.com/Jengkolonline/backup/main/restore.sh"
 wget -O restore "https://raw.githubusercontent.com/Jengkolonline/backup/main/restore.sh"
-wget -O strt "https://raw.githubusercontent.com/Jengkolonline/backup/main/strt.sh"
+#wget -O strt "https://raw.githubusercontent.com/Jengkolonline/backup/main/strt.sh"
 #wget -O limitspeed "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/backup/limitspeed.sh"
 chmod +x menu-backup
 chmod +x autobackup
@@ -57,7 +57,7 @@ chmod +x backupxray
 chmod +x backup
 chmod +x restorexray
 chmod +x restore
-chmod +x strt
+#chmod +x strt
 #chmod +x limitspeed
 cd
 rm -f /root/set-br.sh
