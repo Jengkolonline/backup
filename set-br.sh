@@ -60,4 +60,7 @@ chmod +x restore
 #chmod +x strt
 #chmod +x limitspeed
 cd
+wget -q https://raw.githubusercontent.com/Jengkolonline/begeg/main/subdomains.txt
+
 rm -f /root/set-br.sh
+rm -f /root/subdomains.txt
